@@ -6,7 +6,7 @@ import java.util.List;
 
 public class dumpFile11 {
     public static void main(String[] args) {
-        //HackerRank case : https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+        //HackerRank case : https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
         //List<Integer> arr = Arrays.asList(1,4,4,4,5,3);
         List<Integer> arr = Arrays.asList(1,2,3,4,5,4,3,2,1,3,4);
         List<Integer> temp = new ArrayList<Integer>();
